@@ -28,4 +28,27 @@
         <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
         <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
     </div>
+    <div class="col-md-4" style="width:800px; margin:0 auto;">
+        @Html.ActionLink("Way to Denis test page!", "DenTest", "Home")
+        <br/>
+        @Html.ActionLink("Partial view test", "DenPartialView","Home")
+    </div>
+    @if (true)
+    {
+        <text>This is plain text1</text>
+        @:This is plain text2 
+    } 
+
+
+    <div id="result"></div>
+    @section scripts {
+        <script type="text/javascript">
+            $(function () {
+                             $('#result').load('/home/DenPartialView');
+            }); </script>
+    }
+
+
+
+
 </div>
