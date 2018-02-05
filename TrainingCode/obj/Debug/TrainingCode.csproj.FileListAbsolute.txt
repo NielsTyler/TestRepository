@@ -1,5 +1,0 @@
-I:\Denis\Site\AspNetTestProjectWithVerControl2\TestRepository\TrainingCode\bin\Debug\TrainingCode.dll
-I:\Denis\Site\AspNetTestProjectWithVerControl2\TestRepository\TrainingCode\bin\Debug\TrainingCode.pdb
-I:\Denis\Site\AspNetTestProjectWithVerControl2\TestRepository\TrainingCode\obj\Debug\TrainingCode.csprojResolveAssemblyReference.cache
-I:\Denis\Site\AspNetTestProjectWithVerControl2\TestRepository\TrainingCode\obj\Debug\TrainingCode.dll
-I:\Denis\Site\AspNetTestProjectWithVerControl2\TestRepository\TrainingCode\obj\Debug\TrainingCode.pdb
